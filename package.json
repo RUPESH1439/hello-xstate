@@ -1,0 +1,16 @@
+{
+  "name": "hello-xstate",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.4",
+    "xstate": "^4.37.0"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
